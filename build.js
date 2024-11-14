@@ -11,7 +11,7 @@ const loader = ThemesLoader(StyleDictionary);
 // esto es un comentario
 
 async function main () {
-    console.log('Hola mundo');
+    console.log('Hola Angela');
 }
 
 main();
